@@ -15,8 +15,12 @@ public class C02Integer {
         b = 2_147_483_647;
         //   b= 3.14; 불가
 
+
         // long
         long c = 3_147_483_647L;
         long d = 5151523151321L;
+        // 내일은 byte, short 배울 예정
+        // byte, short
+
     }
 }
