@@ -1,4 +1,4 @@
-package c03.lecture.p1arithemetic.sec01;
+package ch03.lecture.p1arithemetic.sec01;
 
 public class IncreaseDecreaseOperatorExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ch04.lecture.p2swith;
+package ch04.lecture.p2switch;
 
 public class C06Switch {
     public static void main(String[] args) {

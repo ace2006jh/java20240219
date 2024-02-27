@@ -1,4 +1,4 @@
-package ch04.lecture.p2swith;
+package ch04.lecture.p2switch;
 
 import java.util.Random;
 import java.util.Scanner;

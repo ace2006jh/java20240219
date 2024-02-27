@@ -1,4 +1,4 @@
-package ch04.sec05;
+package ch04.exercise;
 
 import java.util.Random;
 
