@@ -21,6 +21,7 @@ public class C01Static {
 class C01MyClass {
     // 인스턴스 필드(인스턴스 변수)
     String name;
+
     // static 필드 (class 필드,변수)
     // 클래스의 정보
     static String location;
