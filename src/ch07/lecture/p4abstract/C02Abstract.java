@@ -2,7 +2,7 @@ package ch07.lecture.p4abstract;
 
 public class C02Abstract {
     public static void main(String[] args) {
-        C02Animal a1 = new C02Fish();
+        C02Animal a2 = new C02Fish();
         C02Animal a1 = new C02Cat();
         a1.breathe();
         a2.breathe();
